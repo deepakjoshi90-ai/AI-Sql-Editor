@@ -3,7 +3,7 @@ from config import GEMINI_API_KEY
 
 
 client = genai.Client(
-    api_key="AQ.Ab8RN6Kw9tIsVIgJfXA7VHTMXRBayCS01OFZvygQv6GmwW1aoA"
+    api_key="AQ."
 )
 
 
