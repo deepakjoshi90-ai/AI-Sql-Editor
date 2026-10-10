@@ -16,9 +16,9 @@ connection = mysql.connector.connect(
 
     user="root",
 
-    password="Deepak@1234",      # Replace with your MySQL password
+    password="Password",      # Replace with your MySQL password
 
-    database="ai_sql_auditor"
+    database="DB Name"
 
 )
 
